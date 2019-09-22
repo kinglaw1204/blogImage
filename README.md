@@ -1,2 +1,2 @@
-# blogImage
+# blog Image
 images of blog
